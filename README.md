@@ -25,7 +25,7 @@ Este proyecto utiliza las siguientes librerías:
 * jest
 * @babel/preset-env (devDependency)
 
-# 🧪 Testing
+## 🧪 Testing
 La app cuenta con pruebas unitarias y de integración para cubrir las operaciones principales del CRUD:
 
 ```
